@@ -1,7 +1,7 @@
 # Ex. 3.4
 
-Meanx1 = c(-1,-1); Meanx1
-Meanx2 = c(2,1); Meanx2
+meanx1 <- c(-1,-1); Meanx1
+meanx2 <- c(2,1); Meanx2
 
 Sp = matrix(c(7.3,-1.1,-1.1,4.8), nrow=2); Sp
 solve(Sp)
